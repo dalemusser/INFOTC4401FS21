@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Syllabus: INFOTC 4401 Python 1 (operating as 4001 Topics this semester)</title>
+<title>Syllabus: INFOTC 4401 Python 1</title>
 </head>
 <body>
 <h1>INFOTC 4401 Python 1 (operating as 4001 Topics this semester)</h1>
