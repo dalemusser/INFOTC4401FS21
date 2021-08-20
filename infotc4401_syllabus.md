@@ -4,7 +4,7 @@
 <title>Syllabus: INFOTC 4401 Python 1</title>
 </head>
 <body>
-<h1>INFOTC 4401 Python 1 (operating as 4001 Topics this semester)</h1>
+<h1>INFOTC 4401 Python 1</h1>
 
 <p>An introduction to the Python 3 programming language.<br /> The following topics are covered:<br /> <br /> <ul> <li>Types of programming languages and where Python fits.</li> <li>Analyzing problems and designing solutions.</li> <li>Program architecture and code organization.</li> <li>Installing and configuring Python and Python IDLE.</li> <li>Installing and configuring Microsoft VS Code for Python development.</li> <li>Working with Python package and version management tools.</li> <li>Variables and data types.</li> <li>Decision structures and Boolean logic.</li> <li>Repetition structures.</li> <li>Writing and using functions.</li> <li>Working with strings.</li> <li>Using Lists and tuples.</li> <li>Using dictionaries and sets.</li> <li>Mathematical expressions and precision.</li> <li>File input and output.</li> <li>User input and output.</li> <li>Parsing data.</li> <li>Exception handling.</li> <li>Fundamental object-oriented concepts.</li> <li>Debugging.</li> </ul></p>
 
